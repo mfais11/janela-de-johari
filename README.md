@@ -50,3 +50,11 @@ A atividade permitiu refletir sobre minha personalidade, reconhecer minhas quali
 ![Janela de Johari](imagem/janela-de-johari.png) Resultado final da Janela de Johari.
 
 </div>
+
+---
+
+<div align="center">
+
+**Feito com carinho 💜**
+
+</div>
