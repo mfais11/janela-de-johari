@@ -43,7 +43,5 @@ O projeto utiliza quatro cores para diferenciar os quadrantes: verde, amarelo, l
 
 A atividade permitiu refletir sobre minha personalidade, reconhecer minhas qualidades e compreender que sempre existem novas características e habilidades a descobrir.
 
----
-
 **Projeto:** Janela de Johari  
 **Nome:** Marina Aparecida Fais  
