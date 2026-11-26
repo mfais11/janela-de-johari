@@ -47,4 +47,3 @@ A atividade permitiu refletir sobre minha personalidade, reconhecer minhas quali
 
 **Projeto:** Janela de Johari  
 **Nome:** Marina Aparecida Fais  
-**Atividade:** Autoconhecimento e desenvolvimento pessoal
