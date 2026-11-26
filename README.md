@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Janela de Johari
 
 ## Sobre o projeto
@@ -42,3 +44,9 @@ O projeto utiliza quatro cores para diferenciar os quadrantes: verde, amarelo, l
 ## Conclusão
 
 A atividade permitiu refletir sobre minha personalidade, reconhecer minhas qualidades e compreender que sempre existem novas características e habilidades a descobrir.
+
+## Resultado Final
+
+![Janela de Johari](imagem/janela-de-johari.png) Resultado final da Janela de Johari.
+
+</div>
